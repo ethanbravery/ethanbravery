@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @ethanbravery
 - 👀 I’m interested in C and C++
 - 🌱 I’m currently learning Programming
-- 1st year BSIT Student
